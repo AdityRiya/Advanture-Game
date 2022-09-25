@@ -13,7 +13,7 @@ if answer == "yes":
         elif answer == "no":
             print("Tour is over.")
         else: 
-        print("Not a valid answer.")
+            print("Not a valid answer.")
     elif answer == "left":
         print("here you can see Two Male Hall of the nstu and one Female hall of the nstu.") 
         answer = input("Do you wanna go  forward?" ).lower()
@@ -22,7 +22,7 @@ if answer == "yes":
         elif answer == "no":
             print("Tour is over.") 
         else: 
-        print("Not a valid answer.")
+            print("Not a valid answer.")
     else: 
         print("Not a valid answer.")
 elif answer == "no":
