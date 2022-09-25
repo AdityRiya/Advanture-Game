@@ -29,3 +29,7 @@ elif answer == "no":
     print("The Tour is over.")
 else:
     print("Not a valid answer.")
+
+
+
+print("Hope You Will Come Again. Good Bye for Now")
